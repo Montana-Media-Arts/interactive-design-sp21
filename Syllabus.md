@@ -139,7 +139,7 @@ This class will be participatory, and you are expected to participate in discuss
 
 #### Final Grades
 
-Grades will be determined according to the following breakdown:
+Grades will be determined by the following breakdown:
 
 - Project Contribution: 60%
 - Project Documentations: 10%
